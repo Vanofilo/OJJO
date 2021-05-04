@@ -1569,6 +1569,9 @@ body.lock {
 }
 
 @media (max-width: 768px) {
+  .product-card{
+    padding: 0 0 45px;
+  }
   .intro {
     min-height: 600px;
     padding: 0;
@@ -1855,7 +1858,7 @@ body.lock {
   }
 
   .product-card__info-buttons a:first-child {
-    margin-right: auto;
+    margin-right: 0;
     margin-bottom: 15px;
   }
 }
