@@ -1868,6 +1868,6 @@ body.lock {
     justify-content: center;
   }
 }
-.swiper{
+.swiper-container{
   overflow: hidden;
 }
